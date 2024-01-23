@@ -432,7 +432,7 @@ a {
     margin-top: 6px;
 }
 
-.course-list .courses-item .footer {
+.course-list .courses-item .course-footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
